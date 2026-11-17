@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": 1,
+    "title": "Java Backend Developer Intern",
+    "company": "TechNova",
+    "description": "Looking for candidates with Java, Spring Boot, REST API development, SQL, PostgreSQL and backend development experience."
+  },
+  {
+    "id": 2,
+    "title": "Python AI Engineer Intern",
+    "company": "InnovateAI",
+    "description": "Looking for candidates with Python, machine learning, LLMs, embeddings, semantic search and generative AI experience."
+  },
+  {
+    "id": 3,
+    "title": "Data Engineer Intern",
+    "company": "DataWorks",
+    "description": "Looking for candidates with Python, SQL, PostgreSQL, ETL pipelines, data processing and database management skills."
+  },
+  {
+    "id": 4,
+    "title": "Frontend Developer Intern",
+    "company": "WebCraft",
+    "description": "Looking for candidates with HTML, CSS, JavaScript, React, responsive design and frontend development experience."
+  },
+  {
+    "id": 5,
+    "title": "Full Stack Developer Intern",
+    "company": "CodeSphere",
+    "description": "Looking for candidates with JavaScript, React, Node.js, Express.js, REST APIs and database integration experience."
+  }
+]
